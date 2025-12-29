@@ -1,4 +1,3 @@
-File Name :- Flight_Ticket_pipeline_plan
 # Machine Learning Pipeline: Implementation Plan
 
 
@@ -52,5 +51,6 @@ File Name :- Flight_Ticket_pipeline_plan
 ## Model Evaluation
 
 1. The Final Best Random Forest Model RMSE score is 79.16.
+
 
 
